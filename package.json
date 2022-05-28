@@ -1,0 +1,21 @@
+{
+    "name": "bryceguys-theme",
+    "displayName": "bryceguys-theme",
+    "description": "Bryceguy's Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bryceguy's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bryceguy's Theme-color-theme.json"
+            }
+        ]
+    }
+}
