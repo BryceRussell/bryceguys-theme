@@ -778,14 +778,28 @@
 		  "name": "Tags",
 		  "scope": "entity.name.tag",
 		  "settings": {
-			"foreground": "#cfcfcf"
+			"foreground": "#cd5c52"
 		  }
+		},
+		{
+			"name": "Css selectors",
+			"scope": "entity.name.tag.css",
+			"settings": {
+			  "foreground": "#ecb840"
+			}
+		},
+		{
+			"name": "Css selectors",
+			"scope": "entity.name.tag.reference.scss",
+			"settings": {
+			  "foreground": "#ecb840"
+			}
 		},
 		{
 		  "name": "Attributes",
 		  "scope": "entity.other.attribute-name",
 		  "settings": {
-			"foreground": "#cd5c52"
+			"foreground": "#cfcfcf"
 		  }
 		},
 		{
@@ -801,7 +815,7 @@
 		  "scope": "entity.other.attribute-name.class.css",
 		  "settings": {
 			"fontStyle": "normal",
-			"foreground": "#cd5c52"
+			"foreground": "#ecb840"
 		  }
 		},
 		{
@@ -829,7 +843,7 @@
 		  "name": "Units",
 		  "scope": "keyword.other.unit",
 		  "settings": {
-			"foreground": "#cfcfcf"
+			"foreground": "#cd5c52"
 		  }
 		},
 		{
