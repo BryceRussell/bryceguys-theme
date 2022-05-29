@@ -6,6 +6,7 @@ Originaly generated using: [vscode.one](https://themes.vscode.one/theme/Bryceguy
 ## Completed Syntax's
 - CSS/SCSS
 - HTML
+
 __To Do:__
 - Javascript
 - Typescript
