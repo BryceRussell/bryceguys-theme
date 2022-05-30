@@ -1206,14 +1206,14 @@
 		  "name": "python function decorator @",
 		  "scope": "meta.function.decorator.python",
 		  "settings": {
-			"foreground": "#299fe8"
+			"foreground": "#ecb840"
 		  }
 		},
 		{
 		  "name": "python function support",
 		  "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
 		  "settings": {
-			"foreground": "#00e2ff"
+			"foreground": "#ecb840"
 		  }
 		},
 		{
@@ -2029,9 +2029,9 @@
 	  "tab.inactiveBackground": "#292c3e",
 	  "tab.inactiveForeground": "#ffffff80",
 	  "tab.hoverBorder": "#00000000",
-	  "scrollbarSlider.background": "#49485a20",
-	  "scrollbarSlider.hoverBackground": "#49485a20",
-	  "scrollbarSlider.activeBackground": "#bfbfbf66",
+	  "scrollbarSlider.background": "#8a2ba588",
+	  "scrollbarSlider.hoverBackground": "#8a2ba588",
+	  "scrollbarSlider.activeBackground": "#8a2ba588",
 	  "progressBar.background": "#8a2ba5",
 	  "widget.shadow": "#00000080",
 	  "editorWidget.foreground": "#d3d3d3",
